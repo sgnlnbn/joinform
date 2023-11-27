@@ -1,0 +1,38 @@
+#header {
+  background-image: url("../imgs/header.jpg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  color: white;
+}
+
+.row {
+  font-family: "Roboto";
+  font-size: 1.5em;
+}
+
+#freetext {
+  margin-top: 10px;
+}
+
+#outputLabel {
+  margin-top: 20px;
+}
+
+#output {
+  padding-top: 10px;
+}
+
+
+#buttonClipboard {
+  margin-top: 8px;
+}
+
+#email {
+  margin-top: 30px;
+  font-size: 0.6em;
+}
+
+#footer {
+  font-size: 1.5em;
+}
